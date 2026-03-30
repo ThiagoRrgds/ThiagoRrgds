@@ -9,15 +9,10 @@ Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação** (atu
 ## 🛠️ Tecnologias e Ferramentas
 
 ### **Core Backend**
-* **Linguagem:** Java (8+)
+* **Linguagem:** Java
 * **Framework Principal:** Spring Boot (Spring MVC, Spring Data JPA, Spring Security)
 * **Arquitetura:** REST APIs, Microserviços, Clean Architecture
 
-### **Persistência e Dados**
-* **Bancos de Dados:** MySQL, PostgreSQL
-* **ORM:** Hibernate
-
-### **DevOps & Ferramentas**
 * **Controle de Versão:** Git & GitHub
 * **Gerenciamento de Dependências:** Maven / Gradle
 * **Containers:** Docker
@@ -41,12 +36,7 @@ Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação** (atu
 
 ## 📫 Como me encontrar
 
-* **LinkedIn:** [Seu Nome de Usuário](https://www.linkedin.com/in/seu-usuario)
-* **E-mail:** seuemail@exemplo.com
-
----
-
-### 💡 Uma frase que me guia:
-> "O único modo de fazer um excelente trabalho é amar o que você faz."
+* **LinkedIn:** [ThiagoRrgds](https://www.linkedin.com/in/thiago-rodriguesdev/)
+* **E-mail:** thiagostudyice@gmail.com
 
 ---
