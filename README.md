@@ -1,42 +1,16 @@
-# 🚀 Olá, eu sou o Thiago!
+<div align="center">
+  <img align="center" height="150" src="https://static.vecteezy.com/system/resources/previews/054/589/960/non_2x/dragon-head-with-colorful-wings-and-horns-on-transparent-background-free-png.png" />
+</div>
 
-### **Backend Developer | Java & Spring Boot**
+<h1 align="center">ola 👋, Eu sou Thiago Rodrigues</h1>
+<h3 align="center">Sou um entusiasta de tecnologia e estudante de Sistemas de Informação (atualmente no 6º período). Meu foco principal é construir soluções robustas, escaláveis e eficientes utilizando o ecossistema Java. Acredito que a tecnologia é a ferramenta mais poderosa para transformar ideias em realidade.</h3>
 
-Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação** (atualmente no 6º período). Meu foco principal é construir soluções robustas, escaláveis e eficientes utilizando o ecossistema Java. Acredito que a tecnologia é a ferramenta mais poderosa para transformar ideias em realidade.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorrgds&" alt="thiagorrgds" /></p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tecnologias e Ferramentas
-
-### **Core Backend**
-* **Linguagem:** Java
-* **Framework Principal:** Spring Boot (Spring MVC, Spring Data JPA, Spring Security)
-* **Arquitetura:** REST APIs, Microserviços, Clean Architecture
-
-* **Controle de Versão:** Git & GitHub
-* **Gerenciamento de Dependências:** Maven / Gradle
-* **Containers:** Docker
-
----
-
-## 🎓 Formação e Foco
-
-* **Curso:** Bacharelado em Sistemas de Informação
-* **Status:** 6º Período
-* **Objetivo:** Aprofundar conhecimentos em ecossistemas de nuvem e otimização de performance em aplicações de larga escala.
-
----
-
-## 📊 Estatísticas do GitHub
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRrgds&layout=compact&theme=vision-prime) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoRrgds&show_icons=true&theme=vision-prime) |
-| :--- | :--- |
-
----
-
-## 📫 Como me encontrar
-
-* **LinkedIn:** [ThiagoRrgds](https://www.linkedin.com/in/thiago-rodriguesdev/)
-* **E-mail:** thiagostudyice@gmail.com
-
----
+<h3>Meus Contatos<h3>
+<p align="left"> 
+<a href="www.linkedin.com/in/thiago-rodriguesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago rodrigues" height="30" width="40" /></a>
+</p>
